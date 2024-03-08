@@ -94,3 +94,17 @@ A footnote can also have multiple line[^2].
 <!-- This content will not appear in the rendered Markdown -->
 
 **Let's rename \*our-new-project\* to \*our-old-project\*.**
+
+| Rank | Languages |
+| ----:| ----------|
+|     1| Python    |
+|     2| Markdown  |
+
+<details open>
+<summary>My top languages</summary>
+  
+| Rank | Languages |
+| ----:| ----------|
+|     1| Python    |
+|     2| Markdown  |
+</details>
